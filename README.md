@@ -14,6 +14,9 @@ http://tools.ietf.org/html/draft-ietf-oauth-v2-22
 the request.  http://tools.ietf.org/html/draft-ietf-oauth-v2-bearer-04
 * customizable mount point for oauth2 routes (ex: /oauth2 vs /oauth)
 
+## Acknowledgements
+* Original Gem from socialcast
+* Includes Rails4 Fix from MustWin for routes
 
 ## Requirements
 
